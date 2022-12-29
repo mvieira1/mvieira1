@@ -1,10 +1,10 @@
-###*How do you comfort a JavaScript bug? You console it.*###
+**How do you comfort a JavaScript bug? You console it.**
 
-##about()
+about()
 - Hi, I’m Maria!
 - I’m currently working on my Frontend Developer Portfolio and Personal Website.
 
-##skills()
+__skills()__
 - HTML5
 - CSS3
 - JavaScript ES6+
