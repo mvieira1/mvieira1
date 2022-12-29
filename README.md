@@ -1,16 +1,19 @@
-**How do you comfort a JavaScript bug? You console it.**
+## "How do you comfort a JavaScript bug? You console it!"
 
-**about()**
-- Oh! Hi, there! My name is Maria!
-- I'm a Bioinformatician in training and a self-taught Frontend Developer!
-- I’m currently working on my Portfolio and Personal Website.
+### **about()**
+- Oh! Hi, there! 👋 My name is Maria, like 90% of portuguese women!
+- I'm a Bioinformatician in training 🧬 and a self-taught Frontend Developer 💻!
 
-**skills()**
+### **skills()**
 - HTML5
 - CSS3
 - JavaScript ES6+
 - Bootstrap
-- Python
+- Adobe Illustrator
+
+- Python3
+- Pymol
+- VMD
 
 <!--
 - 👀 I’m interested in 
