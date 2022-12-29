@@ -1,15 +1,16 @@
 **How do you comfort a JavaScript bug? You console it.**
 
-about()
-- Hi, I’m Maria!
-- I’m currently working on my Frontend Developer Portfolio and Personal Website.
+**about()**
+- Oh! Hi, there! My name is Maria!
+- I'm a Bioinformatician in training and a self-taught Frontend Developer!
+- I’m currently working on my Portfolio and Personal Website.
 
-__skills()__
+**skills()**
 - HTML5
 - CSS3
 - JavaScript ES6+
 - Bootstrap
--  Python
+- Python
 
 <!--
 - 👀 I’m interested in 
