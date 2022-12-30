@@ -8,10 +8,9 @@
 - HTML5
 - CSS3
 - JavaScript ES6+
+- Python3
 - Bootstrap
 - Adobe Illustrator
-
-- Python3
 - Pymol
 - VMD
 
@@ -19,4 +18,12 @@
 - 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+Frontend Development  | Bioinformatics
+------------- | -------------
+HTML5  | Python3
+CSS3  | Pymol
+JavaScript ES6+ | VMD
+Bootstrap | 
+Adobe Illustrator
 -->
