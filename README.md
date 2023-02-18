@@ -8,7 +8,8 @@
 - HTML5
 - CSS3
 - JavaScript ES6+
-- Python3
+- Python
+- C++
 - Bootstrap
 - Adobe Illustrator
 - Pymol
