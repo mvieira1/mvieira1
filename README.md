@@ -9,7 +9,6 @@
 - CSS3
 - JavaScript ES6+
 - Python
-- C++
 - Bootstrap
 - Adobe Illustrator
 - Pymol
