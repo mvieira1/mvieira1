@@ -8,6 +8,7 @@
 - HTML5
 - CSS3
 - JavaScript ES6+
+- TypeScript
 - PHP (learning)
 - Python
 - Bootstrap
