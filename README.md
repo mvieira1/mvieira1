@@ -9,7 +9,7 @@
 - CSS3
 - JavaScript ES6+
 - TypeScript
-- PHP (learning)
+- Angular (learning)
 - Python
 - Bootstrap
 - Adobe Illustrator
