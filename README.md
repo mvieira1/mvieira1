@@ -1,8 +1,9 @@
 ## "How do you comfort a JavaScript bug? You console it!"
 
 ### **about()**
-- Oh! Hi, there! 👋 My name is Maria, like 90% of portuguese women!
+- Oh! Hi, there! 👋 My name is Maria, like 90% of the portuguese women!
 - I'm a Bioinformatician in training 🧬 and a self-taught Frontend Developer 💻!
+- My long term goal is to become a Full Stack Developer!
 
 ### **skills()**
 - HTML5
@@ -10,7 +11,7 @@
 - JavaScript ES6+
 - TypeScript
 - Angular (learning)
-- Python
+- Java (learning)
 - Bootstrap
 - Adobe Illustrator
 - Pymol
