@@ -10,8 +10,7 @@
 - CSS3
 - JavaScript ES6+
 - TypeScript
-- Angular (learning)
-- Java (learning)
+- Angular
 - Bootstrap
 - Adobe Illustrator
 - Pymol
