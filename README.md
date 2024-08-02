@@ -2,7 +2,7 @@
 
 ### **about()**
 - Oh! Hi, there! 👋 My name is Maria, like 90% of the portuguese women!
-- I'm a Bioinformatician in training 🧬 and a self-taught Frontend Developer 💻!
+- I'm a self-taught Frontend Developer 💻!
 - My long term goal is to become a Full Stack Developer!
 
 ### **skills()**
@@ -11,10 +11,10 @@
 - JavaScript ES6+
 - TypeScript
 - Angular
+- React
+- Redux
 - Bootstrap
 - Adobe Illustrator
-- Pymol
-- VMD
 
 <!--
 - 👀 I’m interested in 
